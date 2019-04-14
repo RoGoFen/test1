@@ -4,3 +4,5 @@ impord cv2
 img = cv2.imread(“a”)
 
 img.imshow()
+
+img.wait()
